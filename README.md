@@ -2,7 +2,7 @@
 
 *What are the issues, options, and opportunities for using crowdsourced tools to collect evidence of war crimes and human rights abuses in the Ukraine war?*
 
-## Relevant resources: 
+## Relevant Resources: 
 
 * Ukrainian Prosecutor General Iryna Venediktova's  new government portal where the public can report war crimes they witness in Ukraine: [warcrimes.gov.ua](https://warcrimes.gov.ua/) (English machine translation of the portal)
 
