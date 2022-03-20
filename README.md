@@ -14,9 +14,9 @@
 Information in Investigating Violations of International Criminal, Human Rights and Humanitarian Law"): [https://www.ohchr.org/sites/default/files/Documents/Publications/OHCHR_BerkeleyProtocol.pdf](https://www.ohchr.org/sites/default/files/Documents/Publications/OHCHR_BerkeleyProtocol.pdf)
 
 
-## To suggest additional resources or ask about collaborating on future research and development
+## To suggest relevant resources or ask about collaborating on future research and development
 
 * We may lead, coordinate or participate in near future efforts among contributors to help develop tools and solutions.  
 
-* Use this contact form and communicate about this war crimes research in the section titled "Additional questions/comments": (https://forms.gle/qKbNnMTbT89VGzf47)[https://forms.gle/qKbNnMTbT89VGzf47)
+* Use this contact form and communicate about this war crimes research in the section titled "Additional questions/comments": [https://forms.gle/qKbNnMTbT89VGzf47](https://forms.gle/qKbNnMTbT89VGzf47)
 
