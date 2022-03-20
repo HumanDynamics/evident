@@ -4,7 +4,7 @@
 
 ## Relevant Resources
 
-* Ukrainian Prosecutor General Iryna Venediktova's  new government portal where the public can report war crimes they witness in Ukraine: [warcrimes.gov.ua](https://warcrimes.gov.ua/) (English [machine translation](https://github.com/HumanDynamics/evident/blob/main/Criminal-liability-for-RussianWarCrimes.pdf) of the portal)
+* Ukrainian Prosecutor General Iryna Venediktova's  new government portal where the public can report war crimes they witness in Ukraine: [warcrimes.gov.ua](https://warcrimes.gov.ua/) (English [machine translation](https://github.com/HumanDynamics/evident/blob/main/Criminal-liability-for-RussianWarCrimes.pdf))
 
 
 * Podcast episode by law.MIT.edu on the topic of how technology can support establishing evidence of war crimes for international tribunals with guest, David Hasman, who is the Information Systems Officer for the United Nations Investigative Team to Promote Accountability for ISIL Crimes (aka UNITAD): [https://law.mit.edu/pub/podcastpage](https://law.mit.edu/pub/podcastpage)
