@@ -18,5 +18,5 @@ Information in Investigating Violations of International Criminal, Human Rights 
 
 * We may lead, coordinate or participate in near future efforts among contributors to help develop tools and solutions.  
 
-* Use this contact form and communicate about this war crimes research in the section titled "Additional questions/comments": [https://forms.gle/qKbNnMTbT89VGzf47](https://forms.gle/qKbNnMTbT89VGzf47)
+* Use this contact form to communicate about this war crimes research in the section titled "Additional questions/comments": [https://forms.gle/qKbNnMTbT89VGzf47](https://forms.gle/qKbNnMTbT89VGzf47)
 
