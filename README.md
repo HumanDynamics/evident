@@ -7,11 +7,11 @@
 * Ukrainian Prosecutor General Iryna Venediktova's  new government portal where the public can report war crimes they witness in Ukraine: [warcrimes.gov.ua](https://warcrimes.gov.ua/) (English machine translation of the portal)
 
 
-* Podcast episode by law.MIT.edu on the topic of how technology can support establishing evidence of war crimes for international tribunals with guest, David Hasman, who is the Information Systems Officer for the United Nations Investigative Team to Promote Accountability for ISIL Crimes (aka UNITAD): https://law.mit.edu/pub/podcastpage
+* Podcast episode by law.MIT.edu on the topic of how technology can support establishing evidence of war crimes for international tribunals with guest, David Hasman, who is the Information Systems Officer for the United Nations Investigative Team to Promote Accountability for ISIL Crimes (aka UNITAD): [https://law.mit.edu/pub/podcastpage](https://law.mit.edu/pub/podcastpage)
 
 
 *  The Berkeley Protocol on Digital Open Source Investigations ("A Practical Guide on the Effective Use of Digital Open Source
-Information in Investigating Violations of International Criminal, Human Rights and Humanitarian Law"): https://www.ohchr.org/sites/default/files/Documents/Publications/OHCHR_BerkeleyProtocol.pdf
+Information in Investigating Violations of International Criminal, Human Rights and Humanitarian Law"): [https://www.ohchr.org/sites/default/files/Documents/Publications/OHCHR_BerkeleyProtocol.pdf](https://www.ohchr.org/sites/default/files/Documents/Publications/OHCHR_BerkeleyProtocol.pdf)
 
 
 ## To suggest additional resources or ask about collaborating on future research and development
