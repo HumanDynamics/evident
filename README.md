@@ -13,6 +13,14 @@
 *  The Berkeley Protocol on Digital Open Source Investigations ("A Practical Guide on the Effective Use of Digital Open Source
 Information in Investigating Violations of International Criminal, Human Rights and Humanitarian Law"): [https://www.ohchr.org/sites/default/files/Documents/Publications/OHCHR_BerkeleyProtocol.pdf](https://www.ohchr.org/sites/default/files/Documents/Publications/OHCHR_BerkeleyProtocol.pdf)
 
+### Other Examples
+
+* [https://open-archive.org/](https://open-archive.org/)
+
+* [https://mnemonic.org/](https://mnemonic.org/)
+
+* [https://www.bellingcat.com/news/2022/02/27/follow-the-russia-ukraine-monitor-map/](https://www.bellingcat.com/news/2022/02/27/follow-the-russia-ukraine-monitor-map/)
+
 
 ## To suggest relevant resources or ask about collaborating on future research and development
 
